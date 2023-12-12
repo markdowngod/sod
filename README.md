@@ -55,3 +55,10 @@ yarn preview
 ---
 
 For a detailed explanation of how things work, check out [Docus](https://docus.dev).
+
+
+## Dev Notes
+- Attempted installation on pnpm. Project loaded, yet interactivity had depreciated
+    - 1 deprecated subdependencies found: paneer@0.1.0
+- Project is currently using NPM as package manager
+- Other issues arose when using Bun/bunx install
