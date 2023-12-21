@@ -1,63 +1,34 @@
-# Docus Starter
+# SoD Quick Reference Page
 
-Starter template for [Docus](https://docus.dev).
+A clean representation of SoD information, no clutter, ads, straight to the point, and constantly updated.
 
-## Clone
+## Welcome
 
-Clone the repository (using `nuxi`):
+Thank you so much for visting! We are still setting up and changing the way we display our data. Please feel free to drop a comment or suggestion via Github!
 
-```bash
-npx nuxi init -t themes/docus
-```
 
-## Setup
+## Getting Started
 
-Install dependencies:
+Not sure where to start? Visit our rune pages and explore our rune engravings layout. By clicking the rune links you are taken to the varieties of discoveries for each rune. Each engraving is organized by faction/race/zone for ease of accessibility.
 
-```bash
-yarn install
-```
 
 ## Development
 
-```bash
-yarn dev
-```
+Our development process is discovery -> fact check -> implement into our database. As exciting it is to discover runes, locations and mobs may variey. We love taking discovery tips and passing them along to our other fellow adventurers.
 
-## Edge Side Rendering
+## Server Side Rendering
 
-Can be deployed to Vercel Functions, Netlify Functions, AWS, and most Node-compatible environments.
+We've deployed and streamlined our site to have as little lag as possible. Finding exactly what you need within seconds. Our goal is to provide the best rune-lookup experience; returning results in a clean, understandable, and quick fashion.
 
-Look at all the available presets [here](https://v3.nuxtjs.org/guide/deploy/presets).
 
-```bash
-yarn build
-```
+## Preview builds
 
-## Static Generation
-
-Use the `generate` command to build your application.
-
-The HTML files will be generated in the .output/public directory and ready to be deployed to any static compatible hosting.
-
-```bash
-yarn generate
-```
-
-## Preview build
-
-You might want to preview the result of your build locally, to do so, run the following command:
-
-```bash
-yarn preview
-```
+Some feaures will be rolling out automatically, but we will do our best to record and announce changes.
 
 ---
 
-For a detailed explanation of how things work, check out [Docus](https://docus.dev).
 
-
-## Dev Notes
+## Dev Notes / Log
 - Attempted installation on pnpm. Project loaded, yet interactivity had depreciated
     - 1 deprecated subdependencies found: paneer@0.1.0
 - Project is currently using NPM as package manager
