@@ -1,7 +1,7 @@
 export default defineAppConfig({
   docus: {
     title: 'S3',
-    description: 'The best place to start your season of Discovery',
+    description: 'The best place to start your Season of Discovery',
     image: '',
     socials: {
       twitter: 'markdowngod',
