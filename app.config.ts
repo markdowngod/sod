@@ -28,6 +28,14 @@ export default defineAppConfig({
       showLinkIcon: true,
       exclude: [],
       fluid: true
+    },
+    footer: {
+      credits: {
+        icon: 'IconNuxtLabs',
+        text: 'Markdowngod',
+        href: '',
+      },
+      
     }
   }
 })
