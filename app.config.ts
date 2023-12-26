@@ -30,12 +30,7 @@ export default defineAppConfig({
       fluid: true
     },
     footer: {
-      credits: {
-        icon: 'IconNuxtLabs',
-        text: 'Markdowngod',
-        href: '',
+      credits: false
       },
-      
-    }
-  }
+    },
 })
